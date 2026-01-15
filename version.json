@@ -1,5 +1,5 @@
 {
-  "version": "7.4",
-  "url": "https://github.com/XaROIx/Chronoapp/releases/download/chronoapp/chronoapp7.4.exe",
-  "notes": "Version 7.4 – version stable"
+  "version": "8.1",
+  "url": "https://github.com/XaROIx/Chronoapp/releases/download/v8.1/chronoappV8.1.exe",
+  "notes": "Mise à jour V8.1 :\n- CORRECTIF CRITIQUE : Le bouton 'Sauvegarder les réglages' est réparé et valide maintenant toutes les modifications (Facteur Kcal, Objectifs...).\n- Système de mise à jour automatique activé."
 }
